@@ -1,0 +1,101 @@
+Customer_ID,Sales_Rep,Deal_Value,Stage,Close_Date,Lead_Source,Lead_Quality,Lead_Creation_Date,Deal_Probability,Deal_Notes
+39256,Rep_B,24219,Closed Lost,2024-12-13 03:21:31.677180,Direct Mail,Medium,2024-11-11 03:21:31.678097,0.87,Potential high-value deal
+28289,Rep_D,28759,Closed Lost,2024-03-18 03:21:31.677030,Direct Mail,Medium,2024-12-30 03:21:31.678115,0.99,Needs more nurturing
+23434,Rep_D,27941,Proposal,2025-01-27 03:21:31.677188,Direct Mail,Medium,2025-01-17 03:21:31.678121,0.56,Needs more nurturing
+98696,Rep_D,31606,Qualification,2024-10-06 03:21:31.677198,Referral,Low,2024-11-02 03:21:31.678126,0.22,Needs more nurturing
+81482,Rep_B,48780,Proposal,2024-09-21 03:21:31.677193,Email Campaign,Low,2024-12-23 03:21:31.678131,0.57,Needs more nurturing
+21395,Rep_C,4550,Negotiation,2024-10-06 03:21:31.677198,Direct Mail,Low,2024-11-04 03:21:31.678136,0.39,Needs more nurturing
+87397,Rep_B,45129,Qualification,2024-12-13 03:21:31.677180,Referral,Low,2024-11-15 03:21:31.678141,0.68,Potential high-value deal
+65302,Rep_B,43824,Closed Lost,2024-12-13 03:21:31.677180,Web,Low,2025-01-15 03:21:31.678145,0.56,Needs more nurturing
+14165,Rep_C,43348,Closed Lost,2024-12-13 03:21:31.677180,Social Media,High,2024-11-19 03:21:31.678150,0.55,Potential high-value deal
+13905,Rep_D,7449,Proposal,2024-12-13 03:21:31.677180,Email Campaign,Medium,2025-01-25 03:21:31.678154,0.86,Potential high-value deal
+22280,Rep_D,4972,Negotiation,2024-09-21 03:21:31.677193,Email Campaign,High,2024-12-17 03:21:31.678159,0.99,Potential high-value deal
+38657,Rep_C,27386,Proposal,2024-03-18 03:21:31.677030,Social Media,Medium,2024-11-23 03:21:31.678163,0.34,Potential high-value deal
+40495,Rep_B,48724,Prospecting,2024-12-13 03:21:31.677180,Web,Medium,2024-12-07 03:21:31.678167,0.5,Potential high-value deal
+76237,Rep_B,23236,Prospecting,2025-01-27 03:21:31.677188,Referral,Medium,2024-11-07 03:21:31.678171,0.38,Potential high-value deal
+88907,Rep_D,8161,Negotiation,2024-09-21 03:21:31.677193,Social Media,High,2024-12-14 03:21:31.678175,0.34,Needs more nurturing
+13478,Rep_A,17295,Closed Won,2024-12-13 03:21:31.677180,Referral,Medium,2025-01-22 03:21:31.678180,0.79,Potential high-value deal
+83563,Rep_A,13556,Closed Won,2025-01-27 03:21:31.677188,Referral,Medium,2024-11-27 03:21:31.678184,0.43,Needs more nurturing
+36062,Rep_A,13465,Prospecting,2024-12-13 03:21:31.677180,Referral,Low,2024-11-09 03:21:31.678188,0.9,Needs more nurturing
+95181,Rep_B,36146,Prospecting,2024-03-18 03:21:31.677030,Web,Low,2024-12-18 03:21:31.678192,0.53,Needs more nurturing
+81426,Rep_B,30400,Closed Won,2024-09-21 03:21:31.677193,Web,Medium,2025-01-29 03:21:31.678196,0.56,Needs more nurturing
+64987,Rep_D,10186,Qualification,2024-03-18 03:21:31.677030,Referral,Low,2024-12-08 03:21:31.678200,0.66,Needs more nurturing
+38893,Rep_A,28648,Closed Won,2024-09-21 03:21:31.677193,Direct Mail,High,2024-11-29 03:21:31.678204,0.84,Potential high-value deal
+68878,Rep_D,13025,Proposal,2024-12-13 03:21:31.677180,Email Campaign,Medium,2025-01-17 03:21:31.678208,0.23,Needs more nurturing
+87236,Rep_D,19254,Qualification,2024-12-13 03:21:31.677180,Web,High,2024-12-06 03:21:31.678213,0.54,Potential high-value deal
+46463,Rep_D,31318,Proposal,2024-09-21 03:21:31.677193,Direct Mail,Low,2024-12-15 03:21:31.678216,0.82,Potential high-value deal
+10851,Rep_C,17371,Prospecting,2025-01-27 03:21:31.677188,Direct Mail,Low,2024-11-10 03:21:31.678220,0.64,Needs more nurturing
+30926,Rep_A,5940,Qualification,2025-01-27 03:21:31.677188,Email Campaign,High,2024-12-03 03:21:31.678225,0.79,Needs more nurturing
+65392,Rep_A,30041,Proposal,2024-12-13 03:21:31.677180,Referral,Medium,2024-11-01 03:21:31.678229,0.66,Needs more nurturing
+54597,Rep_C,37066,Proposal,2024-12-13 03:21:31.677180,Direct Mail,Low,2025-01-11 03:21:31.678233,0.88,Potential high-value deal
+46421,Rep_C,7416,Qualification,2024-03-18 03:21:31.677030,Direct Mail,Low,2024-12-06 03:21:31.678238,0.62,Needs more nurturing
+30379,Rep_A,4315,Negotiation,2024-12-13 03:21:31.677180,Direct Mail,Low,2025-01-08 03:21:31.678241,0.91,Needs more nurturing
+38221,Rep_C,43738,Closed Won,2024-09-21 03:21:31.677193,Referral,High,2024-11-25 03:21:31.678245,0.82,Potential high-value deal
+54118,Rep_D,36427,Closed Lost,2025-01-27 03:21:31.677188,Referral,High,2024-11-08 03:21:31.678249,0.48,Potential high-value deal
+23396,Rep_B,1967,Proposal,2025-01-27 03:21:31.677188,Web,Low,2024-12-27 03:21:31.678253,0.55,Needs more nurturing
+22156,Rep_D,7112,Closed Won,2024-03-18 03:21:31.677030,Web,Medium,2024-11-13 03:21:31.678257,0.75,Potential high-value deal
+59797,Rep_A,16491,Closed Lost,2025-01-27 03:21:31.677188,Direct Mail,High,2024-11-23 03:21:31.678261,0.45,Needs more nurturing
+22676,Rep_C,11899,Closed Won,2025-01-27 03:21:31.677188,Referral,Medium,2024-11-30 03:21:31.678266,0.85,Needs more nurturing
+57052,Rep_B,27634,Prospecting,2024-10-06 03:21:31.677198,Referral,High,2024-12-02 03:21:31.678270,0.57,Needs more nurturing
+55082,Rep_A,32826,Closed Lost,2024-09-21 03:21:31.677193,Email Campaign,High,2024-12-06 03:21:31.678274,0.49,Needs more nurturing
+89131,Rep_C,32546,Closed Won,2024-10-06 03:21:31.677198,Direct Mail,Medium,2024-11-16 03:21:31.678278,0.87,Needs more nurturing
+44671,Rep_B,15008,Proposal,2025-01-27 03:21:31.677188,Web,Medium,2024-12-27 03:21:31.678282,0.96,Potential high-value deal
+15695,Rep_B,27282,Closed Lost,2024-03-18 03:21:31.677030,Email Campaign,Medium,2024-12-20 03:21:31.678286,0.37,Potential high-value deal
+70217,Rep_C,4842,Prospecting,2024-03-18 03:21:31.677030,Referral,High,2024-12-30 03:21:31.678290,0.9,Needs more nurturing
+80284,Rep_B,11789,Qualification,2025-01-27 03:21:31.677188,Web,Medium,2025-01-19 03:21:31.678294,0.96,Needs more nurturing
+26361,Rep_A,25836,Proposal,2024-12-13 03:21:31.677180,Direct Mail,Medium,2024-12-26 03:21:31.678299,0.23,Potential high-value deal
+59615,Rep_C,1141,Prospecting,2024-10-06 03:21:31.677198,Referral,Medium,2024-12-04 03:21:31.678302,0.23,Needs more nurturing
+20328,Rep_D,26586,Prospecting,2025-01-27 03:21:31.677188,Direct Mail,Medium,2024-12-30 03:21:31.678306,0.59,Needs more nurturing
+82357,Rep_A,18380,Closed Lost,2024-03-18 03:21:31.677030,Email Campaign,Medium,2024-12-02 03:21:31.678310,0.98,Potential high-value deal
+48427,Rep_A,30819,Closed Won,2024-03-18 03:21:31.677030,Email Campaign,Medium,2024-11-19 03:21:31.678315,0.31,Potential high-value deal
+92397,Rep_C,19694,Qualification,2024-10-06 03:21:31.677198,Email Campaign,Medium,2024-11-13 03:21:31.678319,0.61,Needs more nurturing
+91070,Rep_C,28722,Proposal,2024-09-21 03:21:31.677193,Social Media,High,2024-11-06 03:21:31.678323,0.9,Potential high-value deal
+57400,Rep_B,46651,Proposal,2025-01-27 03:21:31.677188,Direct Mail,Medium,2024-12-13 03:21:31.678327,0.89,Needs more nurturing
+85674,Rep_A,48874,Closed Won,2025-01-27 03:21:31.677188,Email Campaign,High,2024-12-18 03:21:31.678331,0.87,Needs more nurturing
+35203,Rep_B,37422,Qualification,2024-09-21 03:21:31.677193,Email Campaign,Low,2025-01-27 03:21:31.678335,0.65,Needs more nurturing
+19116,Rep_A,44376,Closed Lost,2024-10-06 03:21:31.677198,Direct Mail,Low,2024-11-28 03:21:31.678339,0.51,Needs more nurturing
+16006,Rep_A,48081,Proposal,2024-10-06 03:21:31.677198,Email Campaign,High,2024-12-20 03:21:31.678343,0.33,Potential high-value deal
+96673,Rep_D,32894,Qualification,2024-03-18 03:21:31.677030,Direct Mail,Medium,2025-01-07 03:21:31.678347,0.83,Needs more nurturing
+39871,Rep_A,11144,Closed Lost,2024-09-21 03:21:31.677193,Referral,High,2024-11-29 03:21:31.678351,0.35,Potential high-value deal
+47930,Rep_B,13445,Closed Lost,2024-10-06 03:21:31.677198,Direct Mail,Low,2025-01-03 03:21:31.678355,0.97,Potential high-value deal
+20458,Rep_B,20445,Proposal,2024-12-13 03:21:31.677180,Direct Mail,High,2024-12-16 03:21:31.678359,0.48,Needs more nurturing
+40512,Rep_D,15267,Closed Won,2025-01-27 03:21:31.677188,Social Media,Low,2024-12-28 03:21:31.678362,0.6,Potential high-value deal
+23238,Rep_B,4832,Negotiation,2024-03-18 03:21:31.677030,Referral,High,2024-12-18 03:21:31.678366,0.29,Potential high-value deal
+59823,Rep_C,38957,Proposal,2024-09-21 03:21:31.677193,Social Media,High,2024-12-26 03:21:31.678370,0.92,Potential high-value deal
+46434,Rep_D,49217,Prospecting,2024-03-18 03:21:31.677030,Email Campaign,High,2024-11-15 03:21:31.678374,0.42,Needs more nurturing
+69429,Rep_B,36533,Prospecting,2024-10-06 03:21:31.677198,Direct Mail,High,2024-11-02 03:21:31.678378,0.39,Needs more nurturing
+93320,Rep_B,4994,Closed Lost,2024-10-06 03:21:31.677198,Referral,High,2024-12-26 03:21:31.678382,0.8,Needs more nurturing
+57819,Rep_C,21552,Negotiation,2024-12-13 03:21:31.677180,Social Media,Low,2024-11-20 03:21:31.678386,0.32,Potential high-value deal
+31319,Rep_D,4746,Proposal,2025-01-27 03:21:31.677188,Direct Mail,High,2025-01-29 03:21:31.678390,0.55,Potential high-value deal
+58520,Rep_C,4286,Prospecting,2024-09-21 03:21:31.677193,Web,High,2024-11-25 03:21:31.678394,0.47,Potential high-value deal
+56566,Rep_D,39284,Prospecting,2024-03-18 03:21:31.677030,Social Media,High,2025-01-06 03:21:31.678398,0.97,Needs more nurturing
+37460,Rep_D,32246,Proposal,2025-01-27 03:21:31.677188,Referral,Medium,2025-01-20 03:21:31.678402,0.4,Needs more nurturing
+97841,Rep_A,33954,Qualification,2024-10-06 03:21:31.677198,Social Media,Low,2024-12-31 03:21:31.678406,0.58,Needs more nurturing
+44993,Rep_B,35807,Closed Lost,2025-01-27 03:21:31.677188,Social Media,High,2024-12-09 03:21:31.678410,0.24,Needs more nurturing
+99593,Rep_B,11317,Proposal,2024-03-18 03:21:31.677030,Social Media,Low,2024-11-29 03:21:31.678414,0.58,Potential high-value deal
+94939,Rep_A,4727,Qualification,2025-01-27 03:21:31.677188,Email Campaign,High,2024-11-20 03:21:31.678418,0.89,Potential high-value deal
+19358,Rep_C,34281,Closed Lost,2024-10-06 03:21:31.677198,Web,Medium,2024-12-31 03:21:31.678422,0.32,Needs more nurturing
+89840,Rep_A,6250,Negotiation,2025-01-27 03:21:31.677188,Referral,Low,2024-11-03 03:21:31.678426,0.6,Needs more nurturing
+93227,Rep_B,13178,Closed Won,2024-09-21 03:21:31.677193,Referral,Medium,2024-12-01 03:21:31.678430,0.92,Potential high-value deal
+32431,Rep_B,5490,Closed Lost,2025-01-27 03:21:31.677188,Referral,Medium,2024-11-09 03:21:31.678434,0.25,Potential high-value deal
+80010,Rep_A,39996,Negotiation,2024-09-21 03:21:31.677193,Direct Mail,High,2024-11-29 03:21:31.678438,0.56,Needs more nurturing
+42087,Rep_A,5453,Closed Won,2025-01-27 03:21:31.677188,Referral,Low,2024-12-04 03:21:31.678442,0.22,Needs more nurturing
+31417,Rep_A,45250,Prospecting,2024-10-06 03:21:31.677198,Referral,Low,2025-01-28 03:21:31.678446,0.41,Needs more nurturing
+70589,Rep_B,16414,Prospecting,2024-12-13 03:21:31.677180,Web,Low,2025-01-19 03:21:31.678450,0.5,Potential high-value deal
+59735,Rep_A,27461,Prospecting,2024-12-13 03:21:31.677180,Direct Mail,Low,2024-12-24 03:21:31.678454,0.96,Potential high-value deal
+45382,Rep_A,8856,Closed Lost,2024-09-21 03:21:31.677193,Direct Mail,High,2025-01-02 03:21:31.678457,0.81,Needs more nurturing
+93886,Rep_C,38334,Qualification,2024-09-21 03:21:31.677193,Social Media,High,2024-12-10 03:21:31.678461,0.44,Potential high-value deal
+83000,Rep_A,17135,Closed Won,2024-12-13 03:21:31.677180,Email Campaign,Medium,2024-11-03 03:21:31.678465,0.7,Needs more nurturing
+38785,Rep_B,38940,Prospecting,2024-10-06 03:21:31.677198,Direct Mail,High,2024-12-30 03:21:31.678469,0.33,Needs more nurturing
+99733,Rep_C,39962,Proposal,2024-10-06 03:21:31.677198,Direct Mail,Low,2024-12-22 03:21:31.678473,0.73,Needs more nurturing
+52504,Rep_D,3604,Closed Won,2025-01-27 03:21:31.677188,Web,High,2024-11-07 03:21:31.678477,0.77,Needs more nurturing
+17331,Rep_B,41591,Closed Won,2024-09-21 03:21:31.677193,Referral,Medium,2024-11-17 03:21:31.678480,0.68,Potential high-value deal
+40021,Rep_B,6372,Qualification,2024-10-06 03:21:31.677198,Direct Mail,Low,2024-12-14 03:21:31.678484,0.36,Potential high-value deal
+14207,Rep_D,28474,Negotiation,2024-03-18 03:21:31.677030,Direct Mail,Low,2024-12-01 03:21:31.678488,0.4,Potential high-value deal
+51347,Rep_B,44081,Qualification,2025-01-27 03:21:31.677188,Email Campaign,Medium,2024-11-21 03:21:31.678492,0.33,Needs more nurturing
+62581,Rep_D,39251,Prospecting,2025-01-27 03:21:31.677188,Web,Medium,2024-11-24 03:21:31.678496,0.39,Potential high-value deal
+45093,Rep_D,38042,Proposal,2024-12-13 03:21:31.677180,Email Campaign,Low,2024-12-17 03:21:31.678500,0.82,Needs more nurturing
+18675,Rep_B,35261,Proposal,2024-09-21 03:21:31.677193,Direct Mail,High,2024-12-07 03:21:31.678504,0.62,Needs more nurturing
+37653,Rep_A,21733,Prospecting,2024-10-06 03:21:31.677198,Direct Mail,High,2024-11-21 03:21:31.678508,0.39,Needs more nurturing
+84341,Rep_A,18089,Proposal,2024-10-06 03:21:31.677198,Web,Low,2024-12-19 03:21:31.678513,0.88,Needs more nurturing
+51245,Rep_D,14386,Qualification,2025-01-27 03:21:31.677188,Social Media,Low,2024-12-16 03:21:31.678516,0.94,Potential high-value deal

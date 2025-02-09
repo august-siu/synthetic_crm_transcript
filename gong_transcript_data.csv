@@ -1,0 +1,51 @@
+Call_ID,Timestamp,Speaker,Transcript,Sentiment,Keywords,Duration
+96062,2025-02-08 07:46:31.937205,Rep_A,"The features look impressive, but I need more details on integration.",Neutral,Renewal,19
+79736,2025-02-08 17:39:31.937245,Rep_B,How does the onboarding process look?,Neutral,"Discount, Integration",42
+67754,2025-02-08 11:20:31.937264,Rep_B,"The product is good, but we're also looking at a competitor.",Positive,Discount,138
+70094,2025-02-08 11:01:31.937269,Rep_B,"The product is good, but we're also looking at a competitor.",Positive,"Support, Competitor, Pricing",161
+66475,2025-02-08 12:19:31.937274,Customer01,Are there any case studies you can share with us?,Negative,"Discount, Objections, Competitor",94
+65108,2025-02-08 15:44:31.937279,Rep_A,Are there any case studies you can share with us?,Neutral,"Product Features, Pricing, Discount",35
+57907,2025-02-08 21:04:31.937284,Rep_B,Could you clarify how the integration works?,Negative,Objections,122
+97270,2025-02-09 01:36:31.937290,Rep_A,I think the product is a great fit for our needs.,Neutral,Product Features,35
+62621,2025-02-08 18:44:31.937296,Rep_D,"The features look impressive, but I need more details on integration.",Negative,"Objections, Competitor",144
+70679,2025-02-08 11:03:31.937303,Rep_D,I'm not sure about the customer support response time.,Neutral,"Pricing, Competitor",126
+57835,2025-02-08 23:28:31.937308,Customer02,How does the onboarding process look?,Positive,"Competitor, Onboarding",13
+98685,2025-02-09 01:08:31.937313,Customer01,I think the product is a great fit for our needs.,Positive,"Integration, Discount, Pricing",46
+85118,2025-02-08 13:41:31.937318,Rep_D,Could you clarify how the integration works?,Neutral,"Demo, Onboarding",114
+99950,2025-02-08 10:34:31.937322,Rep_C,Can we get a discount if we sign up for a longer term?,Negative,Renewal,177
+95230,2025-02-09 00:50:31.937326,Rep_A,I think the product is a great fit for our needs.,Positive,"Support, Competitor",49
+62133,2025-02-08 07:40:31.937330,Rep_B,How does the onboarding process look?,Neutral,"Discount, Objections, Renewal",29
+62552,2025-02-08 05:52:31.937334,Rep_C,I think the product is a great fit for our needs.,Neutral,"Demo, Onboarding",130
+64180,2025-02-08 03:56:31.937338,Customer02,"I'm worried about the pricing, it's higher than I expected.",Negative,"Pricing, Competitor, Objections",77
+98405,2025-02-09 01:32:31.937342,Rep_C,Are there any case studies you can share with us?,Neutral,"Renewal, Competitor, Objections",96
+81732,2025-02-08 22:11:31.937346,Customer02,"The product is good, but we're also looking at a competitor.",Positive,"Pricing, Integration, Objections",169
+68120,2025-02-08 22:16:31.937350,Rep_D,Are there any case studies you can share with us?,Positive,"Demo, Support",111
+97486,2025-02-08 08:09:31.937354,Rep_A,How does the onboarding process look?,Negative,Objections,176
+88639,2025-02-08 16:59:31.937361,Customer02,"I'm worried about the pricing, it's higher than I expected.",Negative,"Pricing, Objections",30
+99820,2025-02-09 00:27:31.937365,Rep_B,"The features look impressive, but I need more details on integration.",Positive,"Discount, Product Features, Demo",94
+84382,2025-02-08 18:53:31.937369,Rep_C,Are there any case studies you can share with us?,Negative,"Pricing, Product Features",146
+89111,2025-02-08 23:19:31.937374,Customer02,Could you clarify how the integration works?,Positive,"Discount, Demo",107
+68546,2025-02-08 08:19:31.937378,Customer01,Are there any case studies you can share with us?,Neutral,"Renewal, Competitor",91
+56588,2025-02-08 13:09:31.937383,Customer02,I'm not sure about the customer support response time.,Negative,"Support, Renewal, Demo",170
+62721,2025-02-08 06:40:31.937387,Rep_B,"The features look impressive, but I need more details on integration.",Positive,"Integration, Demo, Discount",134
+69414,2025-02-08 07:01:31.937391,Rep_D,I'm not sure about the customer support response time.,Negative,"Integration, Objections",148
+64908,2025-02-08 06:15:31.937396,Rep_A,I'm not sure about the customer support response time.,Neutral,"Renewal, Pricing",19
+73650,2025-02-08 19:39:31.937400,Customer01,Could you clarify how the integration works?,Positive,"Discount, Demo",168
+61759,2025-02-08 09:31:31.937404,Rep_B,"I'm worried about the pricing, it's higher than I expected.",Positive,Competitor,27
+69809,2025-02-08 14:22:31.937409,Customer02,I'm not sure about the customer support response time.,Positive,"Integration, Discount, Product Features",70
+50927,2025-02-08 11:59:31.937413,Rep_B,"The features look impressive, but I need more details on integration.",Neutral,Integration,171
+96400,2025-02-08 12:15:31.937417,Rep_C,Are there any case studies you can share with us?,Positive,"Product Features, Integration, Objections",83
+85005,2025-02-08 17:13:31.937422,Rep_B,How does the onboarding process look?,Negative,"Support, Demo",68
+58295,2025-02-08 07:16:31.937426,Rep_A,"The features look impressive, but I need more details on integration.",Positive,Support,33
+67977,2025-02-08 12:43:31.937430,Rep_A,"The product is good, but we're also looking at a competitor.",Neutral,"Competitor, Pricing",121
+52982,2025-02-08 16:56:31.937434,Rep_B,I think the product is a great fit for our needs.,Negative,Demo,35
+53573,2025-02-08 07:57:31.937438,Rep_C,Are there any case studies you can share with us?,Neutral,"Onboarding, Renewal",172
+86264,2025-02-08 06:10:31.937442,Customer01,Could you clarify how the integration works?,Negative,"Objections, Competitor, Renewal",35
+69145,2025-02-09 01:18:31.937446,Customer02,I'm not sure about the customer support response time.,Negative,"Integration, Onboarding",123
+95705,2025-02-08 06:33:31.937450,Customer01,How does the onboarding process look?,Neutral,"Objections, Discount, Renewal",52
+58275,2025-02-08 23:58:31.937454,Rep_C,I'm not sure about the customer support response time.,Neutral,"Support, Competitor",86
+91803,2025-02-08 20:16:31.937458,Rep_D,Could you clarify how the integration works?,Neutral,"Support, Competitor",17
+99334,2025-02-08 06:00:31.937463,Rep_A,"The features look impressive, but I need more details on integration.",Neutral,"Competitor, Integration, Discount",21
+82170,2025-02-08 20:09:31.937466,Rep_D,"The product is good, but we're also looking at a competitor.",Positive,"Product Features, Discount, Support",93
+56723,2025-02-08 18:20:31.937470,Customer02,I think the product is a great fit for our needs.,Neutral,Discount,24
+50803,2025-02-08 04:49:31.937474,Rep_C,"The product is good, but we're also looking at a competitor.",Negative,"Pricing, Integration",85
